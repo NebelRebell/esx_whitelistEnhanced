@@ -26,6 +26,11 @@ git clone https://github.com/ESX-Org/esx_whitelistEnhanced [esx]/esx_whitelistEn
 start esx_whitelistEnhanced
 ```
 
+## How it works
+Chatcommands
+/addwl [numeral-code???] [steamIdHex]
+....missing
+
 # Legal
 ### License
 esx_whitelistEnhanced - Whitelist with anti-spam and queue (+vip)
